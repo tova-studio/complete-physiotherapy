@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:05:56.485Z",
+  "slug": "completephysiotherapy",
+  "name": "Complete Physiotherapy",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Physiotherapists",
+    "niche": "physiotherapists",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6433662550",
+    "email": "completephysiotherapylincoln@gmail.com",
+    "address": "3/19 Gerald St, Lincoln"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1948669975345064"
+  },
+  "about": {
+    "overview": "Complete Physiotherapy is owned by Physiotherapist Jacquie Webb and aims to provide high quality and a comprehensive physiotherapy service to Lincoln and the wider Selwyn area. Offering physiotherapy privately or as funded by ACC.",
+    "services": [
+      "WHAT WE DO",
+      "OUR SPACE",
+      "PHYSIOTHERAPY",
+      "TIME.",
+      "REFERRALS."
+    ]
+  },
+  "before": {
+    "url": "http://www.completephysiotherapy.co.nz/",
+    "domain": "completephysiotherapy.co.nz",
+    "finalUrl": "https://www.completephysiotherapy.co.nz/",
+    "title": "Home | Complete Physiotherapy",
+    "pages": 10,
+    "score": 52,
+    "assessedAt": "2026-11-19T11:35:36.140Z",
+    "issues": [
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2023, 3 years ago."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "7 of 7 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/complete-physiotherapy/",
+    "repoUrl": "https://github.com/tova-studio/complete-physiotherapy",
+    "generator": "claude",
+    "accent": "#70bf45",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:05:56.485Z"
+  }
+}
